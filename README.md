@@ -4,7 +4,7 @@ Computer Science student at THWS in Würzburg. I enjoy building complete web app
 
 ### Right now
 
-- Building **StudyPortal**, a full-stack web platform for incoming exchange students at THWS, end to end on my own (React/Next.js, Kotlin)
+- Building **StudyPortal**, a full-stack web platform for incoming exchange students at THWS, end-to-end on my own with AI-assisted development in Claude Code (React/Next.js, Kotlin)
 - Learning networking on [TryHackMe](https://tryhackme.com/p/sinembykl01)
 - Looking for a **mandatory internship (20–26 weeks) from March 2027**
 
